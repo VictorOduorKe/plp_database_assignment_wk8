@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# my test files
+data.sql
+db_conn.py
+db_dump.sql
+operations.py
