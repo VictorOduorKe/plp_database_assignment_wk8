@@ -25,4 +25,3 @@ def create_db_connection():
 def close_db_connection(connection):
     if connection and connection.is_connected():
         connection.close()
-create_db_connection()
