@@ -1,6 +1,10 @@
 # plp_database_assignment_wk8
-
-To run the program create virtual environment and install the following dependancies
+# clone the repository
+```bash
+git clone https://github.com/VictorOduorKe/plp_database_assignment_wk8.git
+cd plp_database_assignment_wk8
+```
+To run the program create virtual environment and install the following dependancies 
 ```bash
 python3 -m venv venv
 source venv/bin/activate
